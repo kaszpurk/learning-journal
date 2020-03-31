@@ -13,4 +13,4 @@ I've never met anyone who experienced or spoken of a great journey, without ackn
 ### [x] Embrace the discomfort
 ### [x] What's next isn't visible, sometimes it has to be built
 ### [x] Build *your* community of support
-### [x] Hard doesn't exclude fun :laughing:
+### [x] Hard doesn't exclude fun:laughing:
