@@ -6,8 +6,9 @@ The dividing path of which way to go: stay down or crawl forward. Often staying 
 #### Falling upward
 *However*, you decide to crawl forward, find gumption and slug through the mud and **GO**. Sometimes this is a thunderous roar of a lion, ready to come back. Often times, it is a grit of the teeth and a **I _got_ this** when you can't see through the intangible cloud.
 I call this **_falling upward_**. This reminds me of the [Shel Silverstein Poem](https://i.pinimg.com/originals/f6/ea/b2/f6eab25dbd00713e64e74bd23114d79c.jpg), when your gumption may have gotten you in over your head. When you have the decision to keep going or burying your face back into the pillow.
-> The growth mindset is when you are covered in mud, hurting all over, grinning-ear-to-ear because inside you, that voice says 
+> The growth mindset is when you are covered in mud, vulnerable, and a voice from inside says 
 > *I got* this.
+
 ### Staying in the arena
 ![Brene Brown](https://live.staticflickr.com/2846/32503370824_b61b1c4947_z.jpg) 
 
