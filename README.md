@@ -8,30 +8,10 @@ The dividing path of which way to go: stay down or crawl forward. Often staying 
 I call this **_falling upward_**. This reminds me of the [Shel Silverstein Poem](https://i.pinimg.com/originals/f6/ea/b2/f6eab25dbd00713e64e74bd23114d79c.jpg), when your gumption may have gotten you in over your head. When you have the decision to keep going or burying your face back into the pillow.
 > The growth mindset is when you are covered in mud, vulnerable, and a voice from inside says 
 > *I got* this.
-
 ### Staying in the arena
 ![Brene Brown](https://live.staticflickr.com/2846/32503370824_b61b1c4947_z.jpg) 
-
-Explain “growth mindset” in your own words
-Include 3 reminders to yourself of how to keep yourself in a growth mindset
-Utilize at least 5 different features of Markdown to structure your page
-Be sure to introduce yourself, and include a link to your GitHub portfolio page
-
-- [x] Pause and reflect
-- [x] Understand 
-
-**Quo Vadimus?**
-
-
-* remember nothing is easy at first
-* Remember to ask for help when needed
-* Growth mindset is how it iS as a dev
-
-##### level 6
-Kat C's learning journal for Code 102
-*Remember if it is worth it, it is hard*
-> "We all know the field we play and we all know what can happen in the course of a game.  
-> If you are unprepared for the potentials, don't step onto the field."
-
-I think you should use an
-`<addr>` element here instead.
+I've never met anyone who experienced or spoken of a great journey, without acknowledging a hurdle, stumbling block or failure. I've been there. I have *lived* there. We all have. Some of my greatest journey's happened because:
+#### [x] Embracing the discomfort
+#### [x] I can't see the steps that get me to the end
+#### [x] Remembering: This is a shared experience
+#### [x] Hard doesn't mean it isn't fun
