@@ -6,11 +6,10 @@
 - Navigating to the Terminal on my Mac (Applications -> Utilities)
 - Bash: Bourne again shell (default for Command Shell)
 - Shortcuts are very common, up and down arrow to use a command previously entered
-
 ## Navigation
 - Commands in Linux are often abbreviations
 - ls [options][location]; brackets represent optional when running a command
-- *Absolute and Relative Paths*, when using a file or directory we are using one or the other
+- *Absolute* and *Relative Paths*, when using a file or directory we are using one or the other
   -Absolutely: idnetified with a forward slash /
     -Absolute specifiy a location in relation to the root directory
   -Relative: will not being with a slash
@@ -39,7 +38,7 @@
   - Everything is a file under Linux
   - Linux is an extensionless system
   - Linux is case sensitive
-### Hidden Files
+## Hidden Files
 - . (full stop) than it is considered hidden
 - ls will not list hidden files and directories by default
 
