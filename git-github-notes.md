@@ -30,13 +30,13 @@
   ##### Cloning
   - Clong Command: $git clone https://github.com/test
   - Command leads to the creation of a directory called test which has copies of all versions of all files for the specified project
-    [x] automatically checks out the newest copy of the project
+[x] automatically checks out the newest copy of the project
  
  #### Local Repository Structure
  1. Working directory: Where files live
  1. Index: Used for staging
  3. Head: most recent commit
-  [x] Check file status: $ git status
+[x] Check file status: $ git status
   
  1. Tracking and Staging a new file
   -git add file name
