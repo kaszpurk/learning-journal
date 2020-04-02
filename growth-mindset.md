@@ -1,4 +1,4 @@
-# What is a growth mindset?
+# What a Growth Mindset means to me
 We've all been there. Banging our head against a wall, feeling beat down or like a winning team in the locker room at half-time down by 3-nil. The emotions include guilt, shame, embarassment, anger, frustration...**FAILURE**.
 
 ## There's a moment
