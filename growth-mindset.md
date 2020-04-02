@@ -1,12 +1,6 @@
 # What is a growth mindset?
 We've all been there. Banging our head against a wall, feeling beat down or like a winning team in the locker room at half-time down by 3-nil. The emotions include guilt, shame, embarassment, anger, frustration...**FAILURE**.
 
-#### Table of Contents
-    - [Growth Mindset](growth-mindset.md)
-    - [Markdown](markdown-notes.md)
-    - [Computer Setup](computer-setup.md)
-    - [git v GitHub](git-github-notes.md)
-
 ## There's a moment
 The dividing path of which way to go: stay down or crawl forward. Often staying down is a relief, this disaster is over. This mess ends with a door slammed shut or a face buried in a pillow because you just can't do anymore. 
 
