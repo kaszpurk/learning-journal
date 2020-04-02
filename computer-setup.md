@@ -21,7 +21,6 @@
   - . is a reference to a current directory
   - .. is a reference to the parent directory 
   - Tab Completion: cd/htab/<beginning of your username> Tab
-
 ## More about Files
 - Everything is actually a file
 - Types of files extensions:
@@ -41,7 +40,6 @@
 ## Hidden Files
 - . (full stop) than it is considered hidden
 - ls will not list hidden files and directories by default
-
 ## Atom: Text Editors
 - There are a lot of versions out there, its really about personal preference
 - Some important things to evaluated text editors:
