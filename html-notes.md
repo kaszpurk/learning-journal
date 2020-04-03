@@ -10,7 +10,11 @@
 - Head
     - Tag that is displayed on the web-bar
     - Holds all your meta information
-    
+## Attributes
+- ID 
+- Class Attribute: Can have in multiple places
+- Source (Attribute of the image tag)
+- Alt (Attribute of the image tag)
 
 ## Duckett: Chapter 18 Process & Design
 - Understand your audience
