@@ -29,7 +29,8 @@ When building a site with more than one page, you should use an external CSS sty
 CSS is hierchacial, if there are two or more rules, the more specific rule will take precedence over a more general rule
 - Specifying a font family or color properties on the '<body>' element, they will apply to most child elements
     - An example of it not being inherited is the background, if these were inherited the page would look messy
-
+> Organizations can often have rules on how to style sheets within their org. (e.g. alpha, structurally, etc.)
+ID have a very specifi number '#'; Classes have periods
 ## Chatper 11: Color
 
 ### Foreground Color
