@@ -29,3 +29,35 @@ CSS is hierchacial, if there are two or more rules, the more specific rule will 
 
 ## Chatper 11: Color
 
+### Foreground Color
+RGB: Express a color in terms of how much Red, Green & Blue are used
+- RGB Example: 100, 100, 90
+Hex Codes: 6-digit codes that represent the amount of Red, Green & Blue preceded by a #
+- Hex Example: #ee3e80
+- Color Names: 147 predefined color names that are recognized by browsers (e.g. DarkCyan)
+### Background Color
+If you do not specify a background color, it will be transparent
+You can use RGB, Hex or Color Names
+By default, most browser windows have a white background, but browser users can set a background color for their windows, so to ensure a white background apply that property
+### Color
+Hue: Near the colloquial idea of color
+Saturation: Amount of gray in a color, Max Saturation is no gray, Min Saturation is mostly gray
+Brightness: How much black is in the color, Max Brightness, almost no black, Min Brightness the color is very dark
+### Contrast
+- Low contrast is hard for those that are visually impaired, additionally it affects monitors of poor quality or sunlight on a screen 
+- High contrast is easy to read but can be tiring on the eyes, adjusting font size and thickness can eleviate the strain
+- Medium contrast is ideal for long spans of text and reading
+### Opacity
+- CSS3 introduced Opacity
+- Opacity is expressed in a value between 0.0 and 1.0 
+- Expressed like RGB with a 4th value indicating the Opacity (0-100%)
+- The RGBA value will only affect the element on which it is applied
+- In the case of some browsers not recognizing RGBA colors, specify a solid color 
+### HSL & HSLA
+Property begins with the letters **hs1**
+RGBA; A=Alpha is expressed between 0.0 & 1.0
+- Hue is an angle
+- Saturation is a percentage
+- Lightness is a percentage
+    - HSL Example: 'background-color: #646464 background-color: hsl(0.0%,.78%);'
+    - HSLA Example: 'background-color: #646464, background-color: hsla (0,100%,0.5);'
