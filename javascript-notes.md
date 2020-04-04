@@ -19,16 +19,19 @@ Each layer forms a separate layer with a different purpose and they build ontop 
 JS is becoming widely adopted as devices are more web-enabled
 Using inspect in Chrome, the code is viewable
 > "Most script are added just before the closing '</body>' tag (this is often considered a better place to put your script) ~Jon Duckett, JavaScript & JQuery
+>
 ## Calling a method of an Object
 Object: What you are calling
 Member Operator: Several methods and properties
 Method: What you want it to do (parameters are inside this object)
 > When the browser comes across a '<script>' element, it stops to load the script and then checks to see if it needs to do anything
+>
 ## Comments
 Call out what your code does, makes the code easier to read and understand and can help others who read your code
 - Use '/*' 
 ## Variable
 > A script will have to temporarily store the bits of information it needs to do its job. It can store this data in **variables** Jon Duckett, JavaScript & JQuery, pg 58
+>
 Specify the variables (e.g. *length x width*)
 1. Remember the value for *width*
 1. Remember the value for *height*
