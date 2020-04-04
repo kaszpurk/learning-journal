@@ -13,6 +13,9 @@ Block level elements look like they start on a new line:
     - Can apply to more than one
 - Declarations indicate the how elements referred to in the selector should be styled
     - Split into two parts (1-property, 2-value) and are separated by a colon
+'*' is the Universal selector
+- Be careful with universal selectors
+**Don't forget to link the style sheet, underneath the title sheet. Not linking the sheets will not apply css elements**
 ### External CSS
 - href specifies the path to the CSS file
 - type specifies the type of document being linked to
