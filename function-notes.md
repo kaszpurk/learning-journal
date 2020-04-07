@@ -13,8 +13,7 @@ Examples:
 - Reload part of the page
 - Filtering Data
 *Scripts are series of instructions that your computer follows to achieve a goal*
-> Scripts are made up of instructions a computer can follow step-by-step
-> ~Jon Duckett, JavaScript & JQuery, pg.15
+> Scripts are made up of instructions a computer can follow step-by-step ~Jon Duckett, JavaScript & JQuery, pg.15
 ### Writing a Script
 - Define the Goal
 - Design the Script
@@ -30,7 +29,7 @@ Expressions rely on operators; allowing programmers to create a single value fro
 ## Functions
 A function will not work unless you name or call it
 > Functions let you group a series of statements together to perform a specific task. If different parts of a sscript repeat the same task, you can reuse the function ~Jon Duckett, JavaScript & JQuery, pg. 88
->
+
 - Grouping together statements are not always executed when a page loads
 - Functions store the steps needed to achieve a task 
     - This allows a task only when a user interacts with a specific element of the page
