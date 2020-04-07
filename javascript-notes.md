@@ -61,3 +61,7 @@ Assignment operator: It says that you are going to assign a value to the variabl
     1. 'firstName' might be used to store an individuals first name
 1. Variable name is more than one word, use a capital letter for the first letter of each word *after* the **first word**
 
+### Other notes
+'Assignment Operator ='
+'Comparative Equals =="
+'Strict Equals ==="
