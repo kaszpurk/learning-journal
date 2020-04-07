@@ -7,6 +7,9 @@
 - [CSS Notes](css-notes.md)
 - [JavaScript Notes](javascript-notes.md)
 
+- [Function Notes](function-notes.md)
+
+
 ## About Kat
 Currently, I'm a Project Manager working in the Retail Industry. Having previously owned a small company and worked in Higher Education, I've wanted to learn more about coding to apply that skillset into 'next'.
 
