@@ -57,3 +57,5 @@ A function will not work unless you name or call it
     - Values passed into the code are arguments
 - Getting a Single Value out of a Function
 Some functions return information to the code that called them, providing a result.
+
+'&&' means 'and'
