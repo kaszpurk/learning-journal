@@ -4,6 +4,7 @@
 - [Markdown](markdown-notes.md)
 - [Computer Setup](computer-setup.md)
 - [git v GitHub](git-github-notes.md)
+- [Computer Architecture and Logic](how-works.md)
 - [HTML notes](html-notes.md)
 - [CSS Notes](css-notes.md)
 ## JavaScript & JQuery Notes
